@@ -1,8 +1,9 @@
 ---
 layout: default
-title: My way of testing SQL Injection - Part 1 - Simple Payload verification
+title: My way of testing SQL Injection - Part 3 - Automation using SQLMAP
 parent: SQL Injection
-nav_order: 2
+nav_order: 3
+has_children: false
 ---
 
 ### What is SQLMAP?

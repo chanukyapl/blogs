@@ -2,7 +2,8 @@
 layout: default
 title: My way of testing SQL Injection - Part 1 - Simple Payload verification
 parent: SQL Injection
-nav_order: 2
+nav_order: 1
+has_children: false
 ---
 
 ### Use of comments

@@ -3,6 +3,7 @@ layout: default
 title: My way of testing SQL Injection - Part 2 - OAST Testing
 parent: SQL Injection
 nav_order: 2
+has_children: false
 ---
 
 ### What is OAST testing?
