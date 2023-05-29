@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sql_injection
+title: SQL Injection
 nav_order: 3
 has_children: true
 permalink: /cybersecurity/sql_injection
@@ -37,13 +37,13 @@ In most of the cases, a person can modify or delete the data, causing persistent
 
 ### My way of testing an SQL injection
 
-*   Simple payloads
-*   OAST testing
-*   Automation
+*   [Simple payloads]()
+*   [OAST testing]()
+*   [Automation]()
 
 Best effective way of exploiting SQL injection is OAST testing(Out of band Application Security Testing)
 
-OAST testing
+OAST testing]()
 
 *   Gather the Generate set of payloads as per the requirement to check as OAST Testing
 *   Test them 
