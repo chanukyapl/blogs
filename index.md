@@ -2,39 +2,21 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Template to build documentation for the things I learn"
+description: "Cyber Security"
 permalink: /
 ---
 
-# Why is this Repo
-{: .fs-9 }
 
-Describe what is the need to create this repository
-{: .fs-6 .fw-300 }
+## Cyber security
 
----
-
-## Getting started
-
-### Dependencies
-
-
-### Quick start:
-
-Know what you want to know before starting!
-
-### Local installation: 
-
-Try to use Docker for building the things 
-
-### Configure 
-
-
-## About the project
-
-
-### License
-
-This repo is distributed by an [MIT license](https://github.com/chanukyapl/repo/).
-
+- SQL Injection 
+    - My way of testing SQL Injection - Part 1 - Simple Payload verification
+    - My way of testing SQL Injection - Part 2 - OAST Testing
+    - My way of testing SQL Injection - Part 3 - Automation with SQLMAP
+- Path Traversal
+- Cross-site Scripting(XSS)
+    - Reflected Cross-site scripting
+    - Stored Cross-site Scripting
+    - DOM Cross-site Scripting
+    - Self Cross-site Scripting
 

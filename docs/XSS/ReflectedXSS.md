@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Types of Cross-Site Scripting - Part 1 - Reflected XSS
-parent: XSS
+parent: Cross-site Scripting(XSS)
 nav_order: 1
 has_children: false
 ---

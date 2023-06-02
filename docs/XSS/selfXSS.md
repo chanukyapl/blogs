@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Types of Cross-Site Scripting - Part 4 - Self-XSS
-parent: XSS
+parent: Cross-site Scripting(XSS)
 nav_order: 4
 has_children: false
 ---
