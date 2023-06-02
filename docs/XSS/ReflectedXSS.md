@@ -22,7 +22,7 @@ The request will be processed and the server may sent the response which contain
 
 And consider, application is displaying the error message along with the username without validating it.
 
-Now replace the username i.e chanu with <script>alert("Chanu")</script>. Now the browser will respond with the alert box. 
+Now replace the username i.e chanu with `<script>alert("Chanu")</script>`. Now the browser will respond with the alert box. 
 
 If that is the case, then we can consider that the endpoint it vulnerable to  Reflected Cross-site Scripting. There  by the application is vulnerable to Reflected Cross-site scripting.
 
