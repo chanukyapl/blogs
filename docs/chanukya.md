@@ -20,16 +20,13 @@ check the configuration
 ## Cyber security
 
 - SQL Injection 
+    - My way of testing SQL Injection - Part 1 - Simple Payload verification
+    - My way of testing SQL Injection - Part 2 - OAST Testing
+    - My way of testing SQL Injection - Part 3 - Automation with SQLMAP
+- Path Traversal
+- Cross-site Scripting(XSS)
+    - Reflected Cross-site scripting
+    - Stored Cross-site Scripting
+    - DOM Cross-site Scripting
+    - Self Cross-site Scripting
 
-
-
-
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-## customization
-
-check just-the-docs for customization
